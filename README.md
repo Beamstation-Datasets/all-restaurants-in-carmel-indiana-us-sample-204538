@@ -1,2 +1,41 @@
-# all-restaurants-in-carmel-indiana-us-sample-204538
-Free BeamStation sample for All Restaurants in Carmel, Indiana, US (241 records in the full dataset)
+# All Restaurants in Carmel, Indiana, US
+
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `204538` |
+| Location | Carmel |
+| Category | Restaurants |
+| Full dataset size | 241 records |
+| Free sample size | 24 records (9.96%) |
+| Last export | 2026-03-31T15:15:08.829204+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-carmel-indiana-us-sample-204538/releases/download/sample-latest/beamstation_204538_restaurants-us-in_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `204538` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
