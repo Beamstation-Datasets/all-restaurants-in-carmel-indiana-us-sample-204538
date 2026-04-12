@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Carmel, Indiana. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Carmel, Indiana, US",
+  "export_job_id": "23157e52-250c-4b99-ab16-1d8383e1b31f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 204538,
+  "location_name": "Carmel",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-carmel-indiana-us-sample-204538",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/204538/beamstation_204538_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 24,
+  "sample_sha256": "2ea8145021954d0b2f9b7b1f2fb498b8558ac2ad318df93ee658162ef1c11253",
+  "sample_size_bytes": 111096,
+  "total_records": 241,
+  "updated_at": "2026-03-31T15:15:08.829204+00:00"
+}
