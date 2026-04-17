@@ -1,12 +1,12 @@
 {
-  "export_job_id": "23157e52-250c-4b99-ab16-1d8383e1b31f",
+  "export_job_id": "7ef8a5fc-0e7c-4e47-b1a5-1a9e98a99d57",
   "id_short": 204538,
-  "published_at": "2026-04-12T07:04:43Z",
+  "published_at": "2026-04-17T07:44:24Z",
   "repo_name": "all-restaurants-in-carmel-indiana-us-sample-204538",
   "sample_asset_name": "beamstation_204538_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/204538/beamstation_204538_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "2ea8145021954d0b2f9b7b1f2fb498b8558ac2ad318df93ee658162ef1c11253",
-  "sample_size_bytes": 111096,
-  "total_records": 241
+  "sample_records": 26,
+  "sample_sha256": "fd3c218dd313c9236f1cfb837a3e2cfd7fe121ab948bde08a83086b90379b1f9",
+  "sample_size_bytes": 115685,
+  "total_records": 268
 }
